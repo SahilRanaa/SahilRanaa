@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goshop/static/css/main.f9a2116f.css",
+    "main.js": "/goshop/static/js/main.dfed54a8.js",
+    "index.html": "/goshop/index.html",
+    "main.f9a2116f.css.map": "/goshop/static/css/main.f9a2116f.css.map",
+    "main.dfed54a8.js.map": "/goshop/static/js/main.dfed54a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a2116f.css",
+    "static/js/main.dfed54a8.js"
+  ]
+}
